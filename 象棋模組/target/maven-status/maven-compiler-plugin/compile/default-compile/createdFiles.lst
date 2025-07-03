@@ -1,0 +1,7 @@
+com\chess\Board.class
+com\chess\ChessService$1.class
+com\chess\Piece$Color.class
+com\chess\Piece.class
+com\chess\Piece$Type.class
+com\chess\ChessService.class
+com\chess\Position.class
